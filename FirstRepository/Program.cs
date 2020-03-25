@@ -11,8 +11,6 @@ namespace FirstRepository
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            Console.WriteLine("12333");
-            Console.WriteLine("another update");
         }
     }
 }
