@@ -10,7 +10,7 @@ namespace FirstRepository
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("This is a new project my scrumProject");
         }
     }
 }
